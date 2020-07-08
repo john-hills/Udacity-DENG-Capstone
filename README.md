@@ -2,30 +2,30 @@
 
 ### Course Summary:
 
-    **MODULE 1: Data Modeling with SQL & NoSQL**
-      - Create relational databases & ETL pipelines with PostgreSQL
-      - Create non-relational databases & ETL pipelines with Apache Cassandra
+__MODULE 1: Data Modeling with SQL & NoSQL__
+    - Create relational databases & ETL pipelines with PostgreSQL  
+    - Create non-relational databases & ETL pipelines with Apache Cassandra
     
-    **MODULE 2: Building Data Warehouses in the Cloud**  
-      - Understand how to use essential computing, storage, and analytics tools in Amazon Web Services (AWS)  
-      - Dissect the core components of data warehouses and learn how to optimize them for different situations  
-      - Implement a data warehouse in AWS — including scalable storage, ETL strategies and design & query optimization  
+  **MODULE 2: Building Data Warehouses in the Cloud**  
+    - Understand how to use essential computing, storage, and analytics tools in Amazon Web Services (AWS)  
+    - Dissect the core components of data warehouses and learn how to optimize them for different situations  
+    - Implement a data warehouse in AWS — including scalable storage, ETL strategies and design & query optimization  
     
-    **MODULE 3: Building Data Lakes with Apache Spark**
-      - Practice using Apache Spark for cleaning and aggregating data
-      - Run Spark on a distributed cluster in AWS and learn best practices for debugging & optimizing Spark apps
-      - Dive into data lakes — understand their importance, core components, and different setup options & issues in the cloud
-      - Build data lakes & ETL pipelines with Spark
+  **MODULE 3: Building Data Lakes with Apache Spark**  
+    - Practice using Apache Spark for cleaning and aggregating data  
+    - Run Spark on a distributed cluster in AWS and learn best practices for debugging & optimizing Spark apps  
+    - Dive into data lakes — understand their importance, core components, and different setup options & issues in the cloud  
+    - Build data lakes & ETL pipelines with Spark  
 
-    **MODULE 4: Optimizing Pipelines with Airflow**
-      - Understand how Airflow works and configure, schedule and debug pipeline jobs
-      - Track data lineage, set up schedules, partition data for optimization, and write tests that ensure data quality
-      - Build production data pipelines with a strong emphasis on maintainability and reusability
+  **MODULE 4: Optimizing Pipelines with Airflow**  
+    - Understand how Airflow works and configure, schedule and debug pipeline jobs  
+    - Track data lineage, set up schedules, partition data for optimization, and write tests that ensure data quality  
+    - Build production data pipelines with a strong emphasis on maintainability and reusability  
 
-    **MODULE 5: Capstone Project**
-      - Choose a use case that appeals to your analytics table, app back-end, source-of-truth database, etc.
-      - Gather the data you'll be using for your project (at least two sources and >1 million rows)
-      - Explore the data, clean it, model it, and then build, monitor and optimize the appropriate ETL for its consumption
+  **MODULE 5: Capstone Project**  
+    - Choose a use case that appeals to your analytics table, app back-end, source-of-truth database, etc.  
+    - Gather the data you'll be using for your project (at least two sources and >1 million rows)  
+    - Explore the data, clean it, model it, and then build, monitor and optimize the appropriate ETL for its consumption  
 
 ### This is the description of the project as outlined by Udacity:
 
