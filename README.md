@@ -36,4 +36,5 @@ The most important decision for modeling with this data is thinking about the le
 You can access the temperature data in a folder with the following path: ../../data2/. There's just one file in that folder, called GlobalLandTemperaturesByCity.csv. Below is how you would read the file into a pandas dataframe.
 
 fname = '../../data2/GlobalLandTemperaturesByCity.csv'
+
 df = pd.read_csv(fname)
