@@ -2,6 +2,8 @@
 
 > https://github.com/john-hills/Udacity-DENG-Capstone/blob/master/Capstone%20-%20PostgreSQL%20-%20Local.ipynb
 
+I have included the course summary below for completeness but you don't need to read it in order to understand what I've done.
+
 ### Course Summary:
 
 __MODULE 1: Data Modeling with SQL & NoSQL__
