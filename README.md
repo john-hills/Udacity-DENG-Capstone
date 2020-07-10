@@ -1,4 +1,6 @@
-### This is the repository for the work I did to complete the Udacity Data Engineer Nanodegree. I submitted the PostgreSQL solution ([CLICK HERE])(https://github.com/john-hills/Udacity-DENG-Capstone/blob/master/Capstone%20-%20PostgreSQL%20-%20Local.ipynb) to pass the course, and then continued working to develop my skills further. I'll upload further files as they are completed. 
+### This is the repository for the work I did to complete the Udacity Data Engineer Nanodegree. I submitted the PostgreSQL solution to pass the course, and then continued working to develop my skills further. I'll upload further files as they are completed. You can see my work here:
+
+> https://github.com/john-hills/Udacity-DENG-Capstone/blob/master/Capstone%20-%20PostgreSQL%20-%20Local.ipynb
 
 ### Course Summary:
 
