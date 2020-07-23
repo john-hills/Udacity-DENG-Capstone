@@ -1,8 +1,11 @@
-### This is the repository for the work I did to complete the Udacity Data Engineer Nanodegree. I submitted the PostgreSQL solution to pass the course, and then continued working to develop my skills further. I'll upload further files as they are completed. You can see my work here:
+### This is the repository for the work I did to complete the Udacity Data Engineer Nanodegree. 
 
-> https://github.com/john-hills/Udacity-DENG-Capstone/blob/master/Capstone%20-%20PostgreSQL%20-%20Local.ipynb
+The first file linked below is the PostgreSQL solution that was submitted to pass the course. Having achieved certification, I then continued working to develop my skills further. The second file demonstrates an AWS cloud-based solution using the idea of 'infrastructure as code'. You can see my work here:
 
-I have included the course summary and project outline below for completeness but you don't need to read them to follow what I have done. That said, these notes will be helpful if you want to replicate my work or if you're interested in doing the course yourself.
+> [PostgreSQL Solution](https://github.com/john-hills/Udacity-DENG-Capstone/blob/master/Capstone%20-%20PostgreSQL%20-%20Local.ipynb)
+> [Amazon S3 and Redshift Solution](https://github.com/john-hills/Udacity-DENG-Capstone/blob/master/Capstone%20-%20S3%20and%20Redshift.ipynb)
+
+I have included the course summary and project outline below for completeness although you don't need to read them to follow what I have done. That said, these notes will be helpful if you want to replicate my work or if you're interested in doing the course yourself.
 
 ### Course Summary:
 
